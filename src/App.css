@@ -23,6 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.MuiButton-label {
+  font-style: oblique;
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+  font-size: 30px;
+  border-color: blue;
+}
 
 .App-link {
   color: #61dafb;
